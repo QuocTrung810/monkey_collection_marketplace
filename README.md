@@ -19,7 +19,7 @@ The npm install command line you provided is to install some npm packages for yo
 * `@emotion/react and @emotion/styled`: Are libraries that support CSS management in React applications. @emotion/react provides the core API for emotion, while @emotion/styled is a styled-components version of emotion.
 * `framer-motion`: Is a library that helps you add motion and animation effects to your React application easily.
 
-## Running projects
+## Running Projects
 
 Call the following command in terminal to run the project:
 
@@ -46,10 +46,14 @@ After you have created a wallet, you can go to [this website](https://mumbaifauc
 This is the interface after connecting to the wallet:
 ![Connected wallet](./assets/images/Connected_wallet.png)
 
-## Check purchased products
+## Check Purchased Products
 
 After purchasing products from the website, you can click on the user icon on the right side of the wallet to view the purchased products.
 ![Owned NFT interface](./assets/images/Owned_nft_interface.png)
+
+## Video Demo
+
+Link [here](https://drive.google.com/file/d/1R9MDThmppRzvcozp7GRg-AhAlWLdnn7W/view?usp=sharing)
 
 ## References
 
